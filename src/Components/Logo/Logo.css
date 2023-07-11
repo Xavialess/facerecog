@@ -1,0 +1,13 @@
+.Tilt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(89deg, #e99a3a 0%, #e0dc72 100%);
+
+}
+
+.Tilt-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
